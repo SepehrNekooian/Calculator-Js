@@ -1,8 +1,7 @@
 ## 💻 Calculator
-
-![Screenshot (56)](https://github.com/user-attachments/assets/b281c094-bb1a-4c96-91fb-f4bffa9acdbf)
-
-
+.
+## 🔗[Demo Project](https://sepehrnekooian.github.io/Calculator-Js/)
+.
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
 ## 📅 Created On: August 22, 2025
