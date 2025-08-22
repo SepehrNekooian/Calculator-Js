@@ -1,7 +1,7 @@
 ## 💻 Calculator
-.
+
 ## 🔗[Demo Project](https://sepehrnekooian.github.io/Calculator-Js/)
-.
+
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
 ## 📅 Created On: August 22, 2025
